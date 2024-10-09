@@ -177,7 +177,7 @@ PlasmoidItem {
     // Switch the conservation mode status
     function switchStatus() {
         root.loading = true
-        showNotification(root.icons[root.desiredStatus], i18n("Switching status to %1.", root.desiredStatus.toUpperCase()))
+        // showNotification(root.icons[root.desiredStatus], i18n("Switching status to %1.", root.desiredStatus.toUpperCase()))
 
         setStatusDataSource.status = root.desiredStatus
         setStatusDataSource.exec()
