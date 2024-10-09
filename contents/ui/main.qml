@@ -10,9 +10,9 @@ PlasmoidItem {
 
     // Icons for different status: "on," "off," and "error"
     property var icons: ({
-        "on": Qt.resolvedUrl("./image/on.png"),
-                         "off": Qt.resolvedUrl("./image/off.png"),
-                         "error": Qt.resolvedUrl("./image/error.png")
+        "on": Qt.resolvedUrl("./image/conservation-on.png"),
+                         "off": Qt.resolvedUrl("./image/conservation-off.png"),
+                         "error": Qt.resolvedUrl("./image/conservation-error.png")
     })
 
     // The desired status for the conservation mode ("on" or "off")
