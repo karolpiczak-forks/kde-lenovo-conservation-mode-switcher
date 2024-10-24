@@ -34,8 +34,8 @@ Any recommendations and contributions are welcome.
 ## Attributions
 
 Icon elements:
-- [Shield icons created by POD Gladiator - Flaticon](https://www.flaticon.com/free-icons/shield)
-- [Power icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/power)
+- [Shield - Flaticon](https://www.flaticon.com/free-icon/shield_8757216)
+- [Battery With A Bolt Symbol - Flaticon](https://www.flaticon.com/free-icon/battery-with-a-bolt-symbol_46518)
 
 ## Screenshots
 - Screenshots running on a Lenovo Legion 5 running Fedora 38.
